@@ -1,0 +1,3 @@
+float testsub (int m, int n, int s ) {
+    s = m + n
+}

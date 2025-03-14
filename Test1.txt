@@ -1,0 +1,6 @@
+int testloop (){
+    int data, count;
+    data = 0;
+    for (count = 1; count < 5; count ++)
+        data = data + 2;
+}
